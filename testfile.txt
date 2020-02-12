@@ -1,0 +1,2 @@
+# testfile
+$ echo "# testfile" > testfile.txt (om een text file te maken)
